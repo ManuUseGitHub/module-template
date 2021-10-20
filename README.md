@@ -5,6 +5,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nunc odio. C
 
 [NPM package](https://www.npmjs.com/package/rehookt)
 
+## Light demo
+Vestibulum convallis tellus velit. Nullam eget ligula sed leo tristique pharetra non vel turpis.
+```js
+const { foo } = require( "bar" );
+
+// comment
+const data = { a: 'a' , b: 'b' , c:'c' };
+
+// comment
+const result = foo( data );
+
+console.log( result );
+// outputs:
+/*
+
+... ...
+
+*/
+
+```
+
 ## Demo
 
 Vestibulum et malesuada libero. Phasellus tincidunt ipsum at felis posuere scelerisque [demo](https://rehookt-demo.herokuapp.com/). Vestibulum convallis tellus velit. Nullam eget ligula sed leo tristique pharetra non vel turpis.
