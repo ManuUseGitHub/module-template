@@ -1,9 +1,7 @@
 # <img id="module-logo" src="https://raw.githubusercontent.com/ManuUseGitHub/module-template/master/logo.svg"> <br/>[![npm version](https://badge.fury.io/js/rehookt.svg)](https://badge.fury.io/js/rehookt) [![Build Status](https://travis-ci.com/ManuUseGitHub/Rehookt.svg?branch=master)](https://travis-ci.com/ManuUseGitHub/Rehookt) [![Coverage Status](https://coveralls.io/repos/github/ManuUseGitHub/Rehookt/badge.svg?branch=master)](https://coveralls.io/github/ManuUseGitHub/Rehookt?branch=master) [![License: MIT](https://img.shields.io/badge/License-MIT-61dafb.svg)](https://github.com/ManuUseGitHub/Rehookt/blob/master/LICENSE)
+***(of rehookt) do not copy this remark***
 
-React has introduced the hooks system to manage states in react applications. It is handy, tho it can be repetitive to use them. Some may want to not include store systems in their application because of the amount of boilerplate code to make everything work.
-
-by understanding the main purpose of hooks, I created a module that can create hooks even on the fly and make them more intuitive to use.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget nunc odio. Curabitur sed dui gravida, eleifend libero gravida, pulvinar diam. Curabitur justo lorem, tempus vel blandit eu, ultrices ut mauris. Phasellus at vulputate sem. Sed ornare mi et turpis tempor, id viverra metus volutpat. Sed a gravida dui. Donec a consectetur felis. Integer interdum non ligula sed hendrerit.
 **** 
 ## Getting started
 See the [NPM page](https://www.npmjs.com/package/rehookt) for details.
