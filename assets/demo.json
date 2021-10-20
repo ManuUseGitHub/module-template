@@ -1,0 +1,1768 @@
+{
+  "wordsStats": [
+    {
+      "order": 206,
+      "word": "œuvres",
+      "number": 3,
+      "length": 6
+    },
+    {
+      "order": 222,
+      "word": "zone",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 35,
+      "word": "wladimiro",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 110,
+      "word": "veut",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 207,
+      "word": "variées",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 271,
+      "word": "utilise",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 16,
+      "word": "une",
+      "number": 9,
+      "length": 3
+    },
+    {
+      "order": 19,
+      "word": "un",
+      "number": 12,
+      "length": 2
+    },
+    {
+      "order": 92,
+      "word": "très",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 140,
+      "word": "trépané",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 130,
+      "word": "transféré",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 55,
+      "word": "trace",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 124,
+      "word": "tout",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 43,
+      "word": "tombe",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 160,
+      "word": "tirésias",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 300,
+      "word": "théoricien",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 154,
+      "word": "théâtre",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 146,
+      "word": "terme",
+      "number": 3,
+      "length": 5
+    },
+    {
+      "order": 240,
+      "word": "temps",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 136,
+      "word": "tard",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 280,
+      "word": "surréaliste",
+      "number": 2,
+      "length": 11
+    },
+    {
+      "order": 147,
+      "word": "surréalisme",
+      "number": 4,
+      "length": 11
+    },
+    {
+      "order": 228,
+      "word": "sûr",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 91,
+      "word": "suit",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 152,
+      "word": "sort",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 221,
+      "word": "sont",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 30,
+      "word": "son",
+      "number": 4,
+      "length": 3
+    },
+    {
+      "order": 69,
+      "word": "signant",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 254,
+      "word": "siècle",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 50,
+      "word": "ses",
+      "number": 4,
+      "length": 3
+    },
+    {
+      "order": 24,
+      "word": "selon",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 106,
+      "word": "sélection",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 211,
+      "word": "seize",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 238,
+      "word": "seine",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 162,
+      "word": "second",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 78,
+      "word": "se",
+      "number": 3,
+      "length": 2
+    },
+    {
+      "order": 56,
+      "word": "sa",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 10,
+      "word": "rome",
+      "number": 3,
+      "length": 4
+    },
+    {
+      "order": 298,
+      "word": "romans",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 76,
+      "word": "revues",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 64,
+      "word": "revue",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 215,
+      "word": "reportent",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 60,
+      "word": "rentre",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 144,
+      "word": "remet",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 205,
+      "word": "regroupe",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 49,
+      "word": "refuse",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 107,
+      "word": "rédigés",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 104,
+      "word": "recueil",
+      "number": 3,
+      "length": 7
+    },
+    {
+      "order": 187,
+      "word": "reconnaissable",
+      "number": 1,
+      "length": 14
+    },
+    {
+      "order": 285,
+      "word": "rapidement",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 48,
+      "word": "qui",
+      "number": 7,
+      "length": 3
+    },
+    {
+      "order": 134,
+      "word": "quelques",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 208,
+      "word": "que",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 103,
+      "word": "publié",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 62,
+      "word": "publie",
+      "number": 3,
+      "length": 6
+    },
+    {
+      "order": 283,
+      "word": "prologue",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 29,
+      "word": "probable",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 234,
+      "word": "présentes",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 93,
+      "word": "près",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 52,
+      "word": "premiers",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 264,
+      "word": "première",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 66,
+      "word": "premier",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 256,
+      "word": "précurseurs",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 304,
+      "word": "précurseur",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 41,
+      "word": "précepteur",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 272,
+      "word": "pour",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 118,
+      "word": "possède",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 54,
+      "word": "portent",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 287,
+      "word": "popularité",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 235,
+      "word": "pont",
+      "number": 3,
+      "length": 4
+    },
+    {
+      "order": 17,
+      "word": "polonaise",
+      "number": 2,
+      "length": 9
+    },
+    {
+      "order": 164,
+      "word": "poétique",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 252,
+      "word": "poètes",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 6,
+      "word": "poète",
+      "number": 7,
+      "length": 5
+    },
+    {
+      "order": 214,
+      "word": "poésies",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 202,
+      "word": "poésie",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 53,
+      "word": "poèmes",
+      "number": 5,
+      "length": 6
+    },
+    {
+      "order": 177,
+      "word": "poème",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 28,
+      "word": "plus",
+      "number": 4,
+      "length": 4
+    },
+    {
+      "order": 47,
+      "word": "playden",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 153,
+      "word": "pièce",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 90,
+      "word": "picasso",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 182,
+      "word": "phrases",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 20,
+      "word": "père",
+      "number": 3,
+      "length": 4
+    },
+    {
+      "order": 83,
+      "word": "pénètre",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 210,
+      "word": "pendant",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 98,
+      "word": "peintres",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 150,
+      "word": "paul",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 241,
+      "word": "passe",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 119,
+      "word": "pas",
+      "number": 2,
+      "length": 3
+    },
+    {
+      "order": 197,
+      "word": "partir",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 306,
+      "word": "participé",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 290,
+      "word": "part",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 232,
+      "word": "parmi",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 61,
+      "word": "paris",
+      "number": 3,
+      "length": 5
+    },
+    {
+      "order": 71,
+      "word": "paraître",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 137,
+      "word": "par",
+      "number": 2,
+      "length": 3
+    },
+    {
+      "order": 89,
+      "word": "pablo",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 260,
+      "word": "ou",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 261,
+      "word": "on",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 22,
+      "word": "officier",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 82,
+      "word": "oeuvres",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 139,
+      "word": "obus",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 169,
+      "word": "novembre",
+      "number": 4,
+      "length": 8
+    },
+    {
+      "order": 259,
+      "word": "nouvelles",
+      "number": 2,
+      "length": 9
+    },
+    {
+      "order": 157,
+      "word": "nouveau",
+      "number": 3,
+      "length": 7
+    },
+    {
+      "order": 262,
+      "word": "notamment",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 231,
+      "word": "nordiques",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 73,
+      "word": "nombreux",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 31,
+      "word": "nom",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 293,
+      "word": "né",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 117,
+      "word": "ne",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 123,
+      "word": "naturalisé",
+      "number": 2,
+      "length": 10
+    },
+    {
+      "order": 120,
+      "word": "nationalité",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 8,
+      "word": "naît",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 246,
+      "word": "naissance",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 96,
+      "word": "mouvement",
+      "number": 2,
+      "length": 9
+    },
+    {
+      "order": 166,
+      "word": "mourir",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 183,
+      "word": "mots",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 158,
+      "word": "mot",
+      "number": 4,
+      "length": 3
+    },
+    {
+      "order": 266,
+      "word": "mondiale",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 142,
+      "word": "mois",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 224,
+      "word": "modernité",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 236,
+      "word": "mirabeau",
+      "number": 3,
+      "length": 8
+    },
+    {
+      "order": 84,
+      "word": "milieux",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 267,
+      "word": "meurt",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 239,
+      "word": "métaphore",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 249,
+      "word": "mère",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 101,
+      "word": "même",
+      "number": 3,
+      "length": 4
+    },
+    {
+      "order": 269,
+      "word": "mars",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 294,
+      "word": "marqué",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 159,
+      "word": "mamelles",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 226,
+      "word": "malade",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 218,
+      "word": "mal",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 302,
+      "word": "maître",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 116,
+      "word": "mais",
+      "number": 3,
+      "length": 4
+    },
+    {
+      "order": 178,
+      "word": "lui",
+      "number": 3,
+      "length": 3
+    },
+    {
+      "order": 263,
+      "word": "lors",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 148,
+      "word": "lettre",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 81,
+      "word": "les",
+      "number": 8,
+      "length": 3
+    },
+    {
+      "order": 230,
+      "word": "légendes",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 5,
+      "word": "le",
+      "number": 20,
+      "length": 2
+    },
+    {
+      "order": 172,
+      "word": "lachaise",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 7,
+      "word": "kostrowitzky",
+      "number": 2,
+      "length": 12
+    },
+    {
+      "order": 135,
+      "word": "jours",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 23,
+      "word": "italien",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 190,
+      "word": "inventé",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 204,
+      "word": "intitulé",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 131,
+      "word": "infanterie",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 278,
+      "word": "incorporant",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 21,
+      "word": "inconnu",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 199,
+      "word": "idéogramme",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 26,
+      "word": "hypothèse",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 58,
+      "word": "homme",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 68,
+      "word": "hérésiarque",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 3,
+      "word": "guillaume",
+      "number": 16,
+      "length": 9
+    },
+    {
+      "order": 33,
+      "word": "guglielmo",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 265,
+      "word": "guerre",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 167,
+      "word": "grippe",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 203,
+      "word": "graphique",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 251,
+      "word": "grands",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 286,
+      "word": "grande",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 163,
+      "word": "grand",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 45,
+      "word": "gouvernante",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 191,
+      "word": "genre",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 255,
+      "word": "fut",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 114,
+      "word": "française",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 248,
+      "word": "français",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 184,
+      "word": "forment",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 180,
+      "word": "forme",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 273,
+      "word": "fois",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 14,
+      "word": "fils",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 247,
+      "word": "fameux",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 70,
+      "word": "fait",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 296,
+      "word": "faisait",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 79,
+      "word": "faire",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 223,
+      "word": "évoque",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 94,
+      "word": "évolution",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 122,
+      "word": "être",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 18,
+      "word": "et",
+      "number": 21,
+      "length": 2
+    },
+    {
+      "order": 181,
+      "word": "esthétique",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 13,
+      "word": "est",
+      "number": 15,
+      "length": 3
+    },
+    {
+      "order": 257,
+      "word": "essaya",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 301,
+      "word": "esprit",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 168,
+      "word": "espagnole",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 299,
+      "word": "érotiques",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 291,
+      "word": "entière",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 170,
+      "word": "enterré",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 112,
+      "word": "engager",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 39,
+      "word": "engagé",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 38,
+      "word": "en",
+      "number": 15,
+      "length": 2
+    },
+    {
+      "order": 200,
+      "word": "également",
+      "number": 3,
+      "length": 9
+    },
+    {
+      "order": 243,
+      "word": "efface",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 276,
+      "word": "écrivain",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 258,
+      "word": "écriture",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 209,
+      "word": "écrites",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 129,
+      "word": "écrire",
+      "number": 4,
+      "length": 6
+    },
+    {
+      "order": 237,
+      "word": "écoulement",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 59,
+      "word": "éconduit",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 138,
+      "word": "éclat",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 279,
+      "word": "drame",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 57,
+      "word": "douleur",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 179,
+      "word": "donnant",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 121,
+      "word": "doit",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 174,
+      "word": "discipline",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 86,
+      "word": "devient",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 288,
+      "word": "devenir",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 281,
+      "word": "deux",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 186,
+      "word": "dessin",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 115,
+      "word": "dès",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 75,
+      "word": "des",
+      "number": 11,
+      "length": 3
+    },
+    {
+      "order": 151,
+      "word": "dermée",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 108,
+      "word": "depuis",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 155,
+      "word": "dédiée",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 292,
+      "word": "décès",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 126,
+      "word": "décembre",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 109,
+      "word": "débuts",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 132,
+      "word": "début",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 216,
+      "word": "déboires",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 244,
+      "word": "dates",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 63,
+      "word": "dans",
+      "number": 9,
+      "length": 4
+    },
+    {
+      "order": 99,
+      "word": "cubistes",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 97,
+      "word": "cubiste",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 303,
+      "word": "cubisme",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 145,
+      "word": "crée",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 270,
+      "word": "création",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 1,
+      "word": "courte",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 274,
+      "word": "courrier",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 289,
+      "word": "courant",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 143,
+      "word": "convalescence",
+      "number": 1,
+      "length": 13
+    },
+    {
+      "order": 194,
+      "word": "contribué",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 128,
+      "word": "continue",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 74,
+      "word": "contes",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 67,
+      "word": "conte",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 176,
+      "word": "consiste",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 250,
+      "word": "considéré",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 80,
+      "word": "connaître",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 284,
+      "word": "connaîtra",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 32,
+      "word": "complet",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 295,
+      "word": "communauté",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 77,
+      "word": "commence",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 40,
+      "word": "comme",
+      "number": 5,
+      "length": 5
+    },
+    {
+      "order": 245,
+      "word": "clés",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 233,
+      "word": "cinquante",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 171,
+      "word": "cimetière",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 217,
+      "word": "chanson",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 100,
+      "word": "cette",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 213,
+      "word": "certaines",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 198,
+      "word": "calligraphie",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 161,
+      "word": "calligrammes",
+      "number": 4,
+      "length": 12
+    },
+    {
+      "order": 173,
+      "word": "calligramme",
+      "number": 2,
+      "length": 11
+    },
+    {
+      "order": 133,
+      "word": "blessé",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 65,
+      "word": "blanche",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 0,
+      "word": "biographie",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 227,
+      "word": "bien",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 277,
+      "word": "belge",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 193,
+      "word": "beaucoup",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 305,
+      "word": "avoir",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 88,
+      "word": "avec",
+      "number": 3,
+      "length": 4
+    },
+    {
+      "order": 165,
+      "word": "avant",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 51,
+      "word": "avances",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 220,
+      "word": "autres",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 225,
+      "word": "automne",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 297,
+      "word": "auteur",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 229,
+      "word": "aussi",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 149,
+      "word": "au",
+      "number": 2,
+      "length": 2
+    },
+    {
+      "order": 85,
+      "word": "artistiques",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 175,
+      "word": "artistique",
+      "number": 2,
+      "length": 10
+    },
+    {
+      "order": 127,
+      "word": "artillerie",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 113,
+      "word": "armée",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 141,
+      "word": "après",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 201,
+      "word": "appelé",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 37,
+      "word": "apollinare",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 4,
+      "word": "apollinaire",
+      "number": 17,
+      "length": 11
+    },
+    {
+      "order": 11,
+      "word": "août",
+      "number": 4,
+      "length": 4
+    },
+    {
+      "order": 212,
+      "word": "ans",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 46,
+      "word": "annie",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 102,
+      "word": "année",
+      "number": 3,
+      "length": 5
+    },
+    {
+      "order": 44,
+      "word": "amoureux",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 242,
+      "word": "amour",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 87,
+      "word": "ami",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 72,
+      "word": "alors",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 42,
+      "word": "allemagne",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 36,
+      "word": "alessandro",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 105,
+      "word": "alcools",
+      "number": 4,
+      "length": 7
+    },
+    {
+      "order": 34,
+      "word": "alberto",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 185,
+      "word": "ainsi",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 219,
+      "word": "aimé",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 196,
+      "word": "ailleurs",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 125,
+      "word": "affecté",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 268,
+      "word": "affaibli",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 275,
+      "word": "adressé",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 282,
+      "word": "actes",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 9,
+      "word": "à",
+      "number": 16,
+      "length": 1
+    }
+  ]
+}
