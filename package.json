@@ -5,7 +5,7 @@
     "watchIndex": "nodemon ./dev/index.ts --ignore ./**/*.js",
     "execute": "node demo/",
     "nodetests": "nodemon demo/ --ignore ./assets/ --ignore ./dev/",
-    "tsc": "tsc dev/index.ts --outDir atext-wordz"
+    "tsc": "tsc dev/index.ts --outDir module-name"
   },
   "dependencies": {
     "bystr-sort": "^1.2.1",
